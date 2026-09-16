@@ -1,8 +1,14 @@
-#Estudiantes:
+# Estudiantes:
 
 ```bash
 Kevin Eduardo Castro Dominguez
 Christopher Alexander Morales Quijano
+```
+
+# Explicación del proyecto:
+
+```bash
+El proyecto consiste en un sistema especializado en la creación e implementación de registros de estudiantes, con autenticación y verificación de datos, hecho específicamente para la prueba asignada.
 ```
 
 # Instalación de dependencias
